@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5API", "Lab5API\Lab5API.csproj", "{D42E5BDD-DA0D-43F9-8B9E-D8B2E8D57D0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5WebAPI", "Lab5WebAPI\Lab5WebAPI.csproj", "{E2AEB820-B44A-432F-8F35-2117FEA38886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5WebApp", "Lab5WebApp\Lab5WebApp.csproj", "{5528E1F7-8822-45B5-90F4-E0C2624A852F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42E5BDD-DA0D-43F9-8B9E-D8B2E8D57D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42E5BDD-DA0D-43F9-8B9E-D8B2E8D57D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42E5BDD-DA0D-43F9-8B9E-D8B2E8D57D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42E5BDD-DA0D-43F9-8B9E-D8B2E8D57D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2AEB820-B44A-432F-8F35-2117FEA38886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AEB820-B44A-432F-8F35-2117FEA38886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AEB820-B44A-432F-8F35-2117FEA38886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AEB820-B44A-432F-8F35-2117FEA38886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5528E1F7-8822-45B5-90F4-E0C2624A852F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5528E1F7-8822-45B5-90F4-E0C2624A852F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5528E1F7-8822-45B5-90F4-E0C2624A852F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5528E1F7-8822-45B5-90F4-E0C2624A852F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDA335A-4394-4523-AA41-D407279D06F1}
+	EndGlobalSection
+EndGlobal
